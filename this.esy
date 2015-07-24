@@ -1,0 +1,18 @@
+#!/usr/bin/env esy
+
+this: Should be Easy
+that: would be my {mistake} to consider
+another: {One} should {verb} the dust
+
+this !print
+that !print {mistake: verbosity}
+another !print {One: One; verb: hit}
+
+!print 
+
+#@text
+
+writer: Is not here {who: Nobody; acts: No} and is resting {how: With hands}
+
+
+recipe: Tarator:: One item of {product1: cucumber}, One 
